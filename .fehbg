@@ -1,0 +1,2 @@
+#!/bin/sh
+feh --no-fehbg --bg-fill '/home/peter/Pictures/wallpapers/frieren.jpg' 
