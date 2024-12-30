@@ -1,11 +1,11 @@
 # DWM Installation
 
 ## Requirements
-[x] yay
-[x] brightnessctl
-[x] pamixer
-[x] tmux
-[x] neovim
+- [x] yay
+- [x] brightnessctl
+- [x] pamixer
+- [x] tmux
+- [x] neovim
 
 
 ## Installation
